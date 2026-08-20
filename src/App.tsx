@@ -166,9 +166,9 @@ function App() {
               <a className="button button-quiet" href="/resume/Ariyan_Resume__.pdf" download>Download resume <Download size={16} /></a>
             </div>
             <div className="social-row hero-stagger" style={{ animationDelay: '.5s' }} aria-label="Social links">
-              <a href="https://github.com/Ariyancs" target="_blank" rel="noreferrer"><Github size={17} /> GitHub</a>
-              <a href="https://www.linkedin.com/in/ariyanbhakat/" target="_blank" rel="noreferrer"><Linkedin size={17} /> LinkedIn</a>
-              <a href="mailto:bhakatariyan@gmail.com"><Mail size={17} /> Email</a>
+              <a href="https://github.com/Ariyancs" target="_blank" rel="noreferrer"><Github size={17} /> GitHub </a>
+              <a href="https://www.linkedin.com/in/ariyanbhakat/" target="_blank" rel="noreferrer"><Linkedin size={17} /> LinkedIn </a>
+              <a href="mailto:bhakatariyan@gmail.com"><Mail size={17} />  Email</a>
             </div>
           </div>
           <div className="hero-visual reveal reveal-delay" style={{ transform: `translateY(${parallaxY}px)` }} aria-label="A visual map of Ariyan's technical interests">
